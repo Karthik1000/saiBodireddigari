@@ -1,6 +1,6 @@
 ### Hi there, I'm Sai - I code for living 👋
 
-[![Sai is a developer @volvo group.](https://res.cloudinary.com/saibodireddigari/image/upload/v1597090027/sample.jpg)](https://www.saiBodireddigari.com)
+[![Sai is a developer @volvo group.](https://res.cloudinary.com/saibodireddigari/image/upload/v1597775622/creativity_lclqly.png)](https://www.saiBodireddigari.com)
 
 - 🔭 I’m currently working on [PYTHON][website]
 - 🌱 I’m currently learning PYTHON [Project][to-do-list] from [Jetbrains Acadamey][hyperskill]
